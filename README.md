@@ -1,7 +1,7 @@
 # AirBnb-Bookings-Analysis-EDA
 Description:
 
-This comprehensive data analysis project delves into the Airbnb market in New York City (NYC) in 2019. The project utilizes exploratory data analysis (EDA) techniques in Python and interactive data visualization through Tableau to uncover key insights into booking trends, pricing patterns, host performance, and guest preferences. The findings aim to empower both Airbnb hosts and guests with actionable information for informed decision-making.
+This comprehensive data analysis project delves into the Airbnb market in New York City (NYC) in 2019. The project utilizes exploratory data analysis (EDA) techniques in Python and interactive data visualization through libraries to uncover key insights into booking trends, pricing patterns, host performance, and guest preferences. The findings aim to empower both Airbnb hosts and guests with actionable information for informed decision-making.
 
 Objectives:
 
