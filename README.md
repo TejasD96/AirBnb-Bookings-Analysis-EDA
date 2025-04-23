@@ -19,7 +19,7 @@ Popular amenities and their impact on price.
 Top-rated hosts and their strategies.
 Seasonal trends in bookings and pricing.
 
-# Tableau Dashboard Development: Key findings from the EDA were visualized in an interactive Tableau dashboard. This dashboard allows users to explore the data dynamically, filter by various criteria, and gain deeper insights into the NYC Airbnb market.
+* Tableau Dashboard Development: Key findings from the EDA were visualized in an interactive Tableau dashboard. This dashboard allows users to explore the data dynamically, filter by various criteria, and gain deeper insights into the NYC Airbnb market.
 The following Python libraries are used for the EDA:
 
 pandas: for data manipulation and analysis
